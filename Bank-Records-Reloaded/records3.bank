@@ -1,0 +1,14 @@
+c Hugo n
+c Ted y
+r Frits
+r Hugo
+t Ted -20.50
+c Figaro n
+t Figaro -10.25
+r Ann
+t Figaro +10.25
+c Figaro y
+c Ann y
+t Ann +1000.00
+t Ann -1100.00
+r Ann
